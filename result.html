@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="box">
+        <h2>Detection Result (Multi-Model)</h2>
+
+        {% if predictions %}
+            <h3>Individual Model Predictions:</h3>
+            <ul style="text-align:left;">
+                {% for model, result in predictions.items() %}
+                    <li><strong>{{ model }}:</strong> {{ result }}</li>
+                {% endfor %}
+            </ul>
+
+            <hr>
+            <h3> Final Combined Result (Majority Voting):</h3>
+            <p><strong>{{ final_result }}</strong></p>
+        {% else %}
+            <p>No result yet. Please submit a news text.</p>
+        {% endif %}
+
+        <a href="{{ url_for('home') }}" class="back-btn">Go Back</a>
+    </div>
+</body>
+</html>

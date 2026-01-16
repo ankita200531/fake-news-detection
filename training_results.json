@@ -1,0 +1,202 @@
+[
+  {
+    "iteration": 1,
+    "accuracy": 0.7514476614699331
+  },
+  {
+    "iteration": 2,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 3,
+    "accuracy": 0.751781737193764
+  },
+  {
+    "iteration": 4,
+    "accuracy": 0.751837416481069
+  },
+  {
+    "iteration": 5,
+    "accuracy": 0.7515033407572383
+  },
+  {
+    "iteration": 6,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 7,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 8,
+    "accuracy": 0.7515590200445434
+  },
+  {
+    "iteration": 9,
+    "accuracy": 0.7515033407572383
+  },
+  {
+    "iteration": 10,
+    "accuracy": 0.7514476614699331
+  },
+  {
+    "iteration": 11,
+    "accuracy": 0.7515590200445434
+  },
+  {
+    "iteration": 12,
+    "accuracy": 0.7518930957683742
+  },
+  {
+    "iteration": 13,
+    "accuracy": 0.7518930957683742
+  },
+  {
+    "iteration": 14,
+    "accuracy": 0.7516146993318485
+  },
+  {
+    "iteration": 15,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 16,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 17,
+    "accuracy": 0.7518930957683742
+  },
+  {
+    "iteration": 18,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 19,
+    "accuracy": 0.7512806236080178
+  },
+  {
+    "iteration": 20,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 21,
+    "accuracy": 0.7516146993318485
+  },
+  {
+    "iteration": 22,
+    "accuracy": 0.7515590200445434
+  },
+  {
+    "iteration": 23,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 24,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 25,
+    "accuracy": 0.7516146993318485
+  },
+  {
+    "iteration": 26,
+    "accuracy": 0.7518930957683742
+  },
+  {
+    "iteration": 27,
+    "accuracy": 0.751781737193764
+  },
+  {
+    "iteration": 28,
+    "accuracy": 0.7520044543429845
+  },
+  {
+    "iteration": 29,
+    "accuracy": 0.7516146993318485
+  },
+  {
+    "iteration": 30,
+    "accuracy": 0.751837416481069
+  },
+  {
+    "iteration": 31,
+    "accuracy": 0.751781737193764
+  },
+  {
+    "iteration": 32,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 33,
+    "accuracy": 0.7516146993318485
+  },
+  {
+    "iteration": 34,
+    "accuracy": 0.7515590200445434
+  },
+  {
+    "iteration": 35,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 36,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 37,
+    "accuracy": 0.7518930957683742
+  },
+  {
+    "iteration": 38,
+    "accuracy": 0.7519487750556793
+  },
+  {
+    "iteration": 39,
+    "accuracy": 0.751837416481069
+  },
+  {
+    "iteration": 40,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 41,
+    "accuracy": 0.751781737193764
+  },
+  {
+    "iteration": 42,
+    "accuracy": 0.7515033407572383
+  },
+  {
+    "iteration": 43,
+    "accuracy": 0.751781737193764
+  },
+  {
+    "iteration": 44,
+    "accuracy": 0.7520044543429845
+  },
+  {
+    "iteration": 45,
+    "accuracy": 0.7517260579064587
+  },
+  {
+    "iteration": 46,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 47,
+    "accuracy": 0.7516703786191536
+  },
+  {
+    "iteration": 48,
+    "accuracy": 0.7514476614699331
+  },
+  {
+    "iteration": 49,
+    "accuracy": 0.7514476614699331
+  },
+  {
+    "iteration": 50,
+    "accuracy": 0.7516703786191536
+  }
+]
